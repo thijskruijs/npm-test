@@ -1,0 +1,19 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thijskruijs/npm-test.git"
+  },
+  "author": "thijs vant kruijs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thijskruijs/npm-test/issues"
+  },
+  "homepage": "https://github.com/thijskruijs/npm-test#readme"
+}
